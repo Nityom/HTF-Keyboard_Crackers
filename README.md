@@ -42,7 +42,7 @@ Contribute to InVote's development and help shape the future of elections:
 
 ## Technologies Used 💻
 
-- Frontend: HTML, CSS, JavaScript
+- Frontend: HTML, CSS, JavaScript, PHP
 - Backend: Node.js, Express.js
 - Database: MongoDB
 - Authentication: JWT (JSON Web Tokens)
